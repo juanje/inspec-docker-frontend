@@ -1,0 +1,10 @@
+name: frontend
+title: InSpec Frontend Profile
+maintainer: Juanje Ojeda
+copyright: Juanje Ojeda
+copyright_email: juanje.ojeda@gmail.com
+license: Apache-2.0
+summary: Profile for standar Node (React, Angular...) Frontend
+version: 0.1.0
+supports:
+  platform: os
